@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on [Curely](https://github.com/ehab37/Curely)
 
-- 🌱 I’m currently learning **ServiceNow with AZM Squad**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ehab37](https://github.com/ehab37)
 
