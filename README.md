@@ -2,16 +2,16 @@
 <h3 align="center">A passionate flutter developer from Egypt</h3>
 </p>
 
-- 🔭 I’m currently working on [Curely](https://github.com/ehab37/Curely)
+- 🔭 I’m currently working on [**Curely**](https://github.com/ehab37/Curely)
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/ehab37](https://github.com/ehab37)
+- 👨‍💻 All of my projects are available at [**https://github.com/ehab37**](https://github.com/ehab37)
 
 - 💬 Ask me about **Flutter, Mobile Application Development**
 
 - 📫 How to reach me **ehabmostafadev37@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lbgYoQgCKF9p9d69cH5XVmtPv_tU6VU7/view?usp=drive_link](https://drive.google.com/file/d/1lbgYoQgCKF9p9d69cH5XVmtPv_tU6VU7/view?usp=drive_link)
+- 📄 Know about my experiences [**CV**](https://drive.google.com/file/d/1cX7boYrqhtEtzuWrWwSpH1XmAsIp2tGX/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
